@@ -6,10 +6,4 @@ Personalized federated learning (PFL) tailors models to clients' unique data dis
 > Yuxia Sun, Aoxiang Sun, Siyi Pan, Zhixiao Fu, and Jingcai Guo.2025. FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data. In Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), 2025. IJCAI.(Accepted)
 
 ## Supplementary
-To access our proof of convergence, visit: 
-<details>
-<summary>Tab 1</summary>
-
-[Link 1 Text](https://github.com/Yuxia-Sun/FedAPA/blob/main/FedAPA_pf_cvg.pdf)
-
-</details>
+To access our proof of convergence, visit: [link](https://github.com/Yuxia-Sun/FedAPA/blob/main/FedAPA_pf_cvg.pdf)
